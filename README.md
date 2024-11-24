@@ -65,13 +65,13 @@ We welcome contributions from the community! Here's how you can contribute:
 4. Push to your forked repository: `git push origin feature-branch-name`
 5. Open a pull request 📬
 
-By contributing to this project, you agree that your contributions will be licensed under the terms specified in the [LICENSE](./LICENSE) file.
+By contributing to this project, you agree that your contributions will be licensed under the terms specified in the [LICENSE](https://github.com/Purohit1999/Password-Generator/blob/main/LICENSE) file.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
+This project is licensed under the [MIT License](https://github.com/Purohit1999/Password-Generator/blob/main/LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
 
 ---
 
